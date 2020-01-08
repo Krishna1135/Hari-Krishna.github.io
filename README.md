@@ -1,5 +1,5 @@
 ## A Journey From Diktel to Davenport
-<img src="images/Website picture.JPG">
+<img src="images/headshot.jpg">
 Krishna Acharya, an independent lerner from a small rural village of Himalayan country, Nepal. Fascinated by the amazing stars in the dark clear sky from the high elevation vintage of Nepal, always motivated me to wander around in the dark and recall the song " Twinkle Twinkle Little Star!!! " learnt in the class. I was enjyoying my childhood in school as much as I could until the schools were closed by  the civil war in the coultry. Without teachers to guide me I went to forest to graze the cattle and played with the nature. Thats when I learned nature is the library of infinite knowledge. Fitting the broken mirrors and lens in the bamboo piece, not only worked as an amateur telescope to see the stars, but it  worked as a futurescope as I started seeing my future. A future that has the possibilities to bring happiness in my life through study and research of space and science. This motivation led me to United stated for the further education as there was not opportunity for the area of studies in Nepal. This is where I start my life with different research works. 
 
 You can use the [editor on GitHub](https://github.com/Krishna1135/Hari-Krishna.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
