@@ -1,5 +1,5 @@
 ## A Journey From Diktel to Davenport
-[Education](Education.md)
+[Education](Education.md) | [Publications](Publications.md)
 
 <img src="images/krishna.jpg">
 
