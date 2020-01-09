@@ -2,9 +2,9 @@
 
 <table style="width:100%">
   <tr>
-    <th>Cosmology & Astronomy
+    <th>[Cosmology & Astronomy
 
-    <img src="images/wolfstar_small.png"> </th>
+    <img src="images/wolfstar_small.png">](Cosmology.md)</th>
     <th>Chemistry
 <img src="images/Chem_small.jpg"> </th>
     <th>Hydrology
