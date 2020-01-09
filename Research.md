@@ -4,11 +4,11 @@
   <tr>
     <th>Cosmology & Astronomy
 
-    <img src="images/Math_small.jpg"> </th>
+    <img src="images/wolfstar_small.png"> </th>
     <th>Chemistry
-<img src="images/Math_small.jpg"> </th>
+<img src="images/Chem_small.jpg"> </th>
     <th>Hydrology
-<img src="images/Math_small.jpg"> </th>
+<img src="images/hydrology_small.jpg"> </th>
     <th>Mathematics
 <img src="images/Math_small.jpg"> </th>
   </tr>
