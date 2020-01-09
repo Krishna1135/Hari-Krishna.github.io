@@ -2,7 +2,7 @@
 
 <table style="width:100%">
   <tr>
-    <th>[Cosmology & Astronomy](Cosmology.md)
+    <th><a href="https://krishna1135.github.io/Hari-Krishna.github.io/Cosmology.html">Cosmology & Astronomy</a>
       
     <a href="https://krishna1135.github.io/Hari-Krishna.github.io/Cosmology.html"><img src="images/wolfstar_small.png"></a></th>
     <th>Chemistry
