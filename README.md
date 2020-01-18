@@ -1,5 +1,5 @@
 ## Krishna Acharya
-## Undergraduate Student, Mechanical Engineering
+# Undergraduate Student, Mechanical Engineering
 
 [Education](Education.md) | [Research Interest](Research.md) | [CV](images/CV_11.pdf) | [Publications](Publications.md)
 
